@@ -3,3 +3,4 @@ def hello():
 def Bye():
   print("Bye")
 print(hello())
+print(Bye())
